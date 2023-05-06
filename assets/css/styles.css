@@ -1,0 +1,14 @@
+
+.text-small {
+    font-size: 0.9rem !important;
+}
+
+body {
+    background: linear-gradient(to left, #d42222, #245e09);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}#receipt {
+    margin-left: 25%;
+}
